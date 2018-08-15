@@ -1,5 +1,5 @@
 ## 《关于夏天柏油路面过热导致的类似水的路面还原》
-
+Eliminate the ‘water’ for automatic drive,not ordinary water 💦 we said.   
 #### （另一种海市蜃楼的消除）
 #### （无人驾驶汽车路面干扰因子的消除）
 毕业设计有两个选择,第一个就是那个Kinect,比较完善,第二个可以做这个,比较有意义,创新.  
