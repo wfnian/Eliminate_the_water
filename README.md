@@ -9,8 +9,9 @@ Eliminate the ‘water’ for automatic drive,not ordinary water 💦 we said.
 ## 项目预期进度 ![](https://img.shields.io/badge/status-TODO-lightgrey.svg) ![](https://img.shields.io/badge/process-%20%20%20%20%20%20%20%20%20%200%25%20%20%20%20%20%20%20%20%20%20-brightgreen.svg)
 
 | 图示1                                                              | 图示2                                                              |
-| ------------------------------------------------------------------ | ------------------------------------------------------------------ |
-| ![](https://github.com/wfnian/-/blob/master/sundry/2.jpg?raw=true) | ![](https://github.com/wfnian/-/blob/master/sundry/1.jpg?raw=true) |
+| ------------------------------------------------------------------ | ------------------------------------------------------------------|
+| ![](https://github.com/wfnian/-/blob/master/sundry/2.jpg?raw=true) | ![](https://github.com/wfnian/-/blob/master/sundry/1.jpg?raw=true)|
+|![](https://github.com/wfnian/Eliminate_the_water/blob/master/sundry/4.jpg?raw=true)|![](https://github.com/wfnian/Eliminate_the_water/blob/master/sundry/3.jpg?raw=true)|
 
 主要是消除那些类似水却不是水的东西。
 
